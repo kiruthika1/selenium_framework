@@ -1,4 +1,4 @@
-**Hudl Demo- Selenium Framework**
+**Demo- Selenium Framework**
 
 **Overview**
 The framework is designed to work with Java, Selenium Web Driver, Testng and Maven
@@ -19,4 +19,5 @@ The framework is designed to work with Java, Selenium Web Driver, Testng and Mav
 -Properties and Utils could be enhanced further to completely isolate the config parameters from the actual code making it easier for people with less technical background to execute it too. This will be an added advantage while incorporating the tests as part of CI/CD pipelines
 -Data providers could be used to handle the test data management aspects and increasing the coverage of the tests with minimal efforts
 -Implementaion of selenium grid would enable cross browser and device testing
+
 
